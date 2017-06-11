@@ -1,0 +1,89 @@
+   14  git init
+   15  git commit -m 'adding zshrc'
+   16  git add .zshrc
+   17  git commit -m 'adding zshrc'
+   18  git push origin master
+   19  git pull
+   20  history |grep -i git
+   21  git pull ^[[200~https://github.com/lexjenkins/LinuxT450s.git~ master
+   22  git pull https://github.com/lexjenkins/LinuxT450s.git master
+   23  git push origin master
+   24  git pull https://github.com/lexjenkins/LinuxT450s.git master
+   26  git pull https://github.com/lexjenkins/LinuxT450s.git master
+   30  git rm 2064049-cyberpunk-wallpaper.jpg
+   31  git commit -m 'broken image file removed'
+   32  git push origin master
+   33  git status
+   34  git pull https://github.com/lexjenkins/LinuxT450s.git master
+   39  git init
+   40  git pull https://github.com/lexjenkins/bladerepo.git master
+   42  git push origin master
+   43  git push
+   44  git push master
+   45  git push master master
+   46  git help
+   47  git help -a
+   48  git push help
+   49  git branch
+   50  git push master master
+   51  git push bladerepo master
+   52  git add hd-cyberpunk_102106533_292.jpg
+   53  git commit -m 'added wallpaper'
+   54  git push origin master
+   55  git remote add origin https://github.com/lexjenkins/bladerepo.git
+   57  git push origin master
+   58  git status
+   61  git pull https://github.com/lexjenkins/LinuxT450s.git master
+   62  git pull
+   63  git branch --set-upstream-to=orgin/https://github.com/lexjenkins/LinuxT450s.git master
+   64  git branch --set-upstream-to=https://github.com/lexjenkins/LinuxT450s.git/master master
+   65  git branch -u https://github.com/lexjenkins/LinuxT450s.git/master
+   66  git fetch --all
+   67  git pull
+   68  git pull master master
+   69  git branch -a
+   70  git branch --set-upstream-to remotes/origin/master
+   71  git pull
+   72  git push
+   74  git pull
+   76  git rm nohup.out
+   77  git commit -m 'removed nohup.out'
+   78  git push
+   79  git pull
+   82  git pull
+   83  git branch -a
+   84  git branch --set-upstream-to remotes/origin/master
+   85  git pull
+   87  git push
+   90  git checkout -b testbranch
+   92  git add testfile
+   93  git commit -m 'adding testfile'
+   94  git push origin testbranch
+   95  git checkout master
+   97  git pull
+   99  git branch -d testbranch
+  100  git branch -a
+  101  git push
+  102  git branch -a
+  103  git branch -d remotes/origin/testbranch
+  104  git branch -d testbranch
+  105  git branch -a
+  106  git push origin testbranch
+  107  git push
+  108  git rm testfile
+  109  git commit -m 'removed testfile'
+  110  git push
+  117  git pull
+  134  git pull
+  138  git pull
+  164  git commit -m 'adding torguard script and icon'
+  165  git add torguard.png
+  166  git add torguard.sh
+  167  git commit -m 'adding torguard script and icon'
+  168  git push
+  169  git status
+  205  git pull
+  207  git pull
+  228  git pull
+  229  git status
+  230  history |grep -i git
